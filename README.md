@@ -1,5 +1,3 @@
-Sure, here's a detailed README.md file for the Flutter app project:
-
 # Stock Market Tracker
 
 Stock Market Tracker is a Flutter app that allows users to view the stock market details of various companies along with their graphs and major stock details. The app also features a news section related to stocks.
