@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170393880919",
+    "project_id": "stokes-ed753",
+    "storage_bucket": "stokes-ed753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170393880919:android:6021f5942f7c6a6df2d612",
+        "android_client_info": {
+          "package_name": "com.example.stocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170393880919-179k3epv4ej0u7g4svno6v0fm8bjsebe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzPJ1O0AT-Nee0kIEYhnPm5HouRVmarvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170393880919-179k3epv4ej0u7g4svno6v0fm8bjsebe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
