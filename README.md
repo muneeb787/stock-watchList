@@ -32,7 +32,6 @@ Stock Market Tracker is a Flutter app that allows users to view the stock market
 To use the Alpha Vantage API and News API, you need to obtain an API key for both services. Once you have the API key, create a `.env` file in the root directory of the project and add the following lines:
 
 ```
-YAHOO_FINANACE=<your_api_key>
 NEWS_API_KEY=<your_api_key>
 ```
 
