@@ -8,7 +8,7 @@ import 'package:charts_flutter_new/flutter.dart' as charts;
 
 class ApiService {
   final endPointUrl =
-      "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=AAPL&apikey=F2Q51WP33SABX727";
+      "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=AAPL&apikey=<YOUR_API_KEY>";
   List<Article> newsList = [];
 
   Future<List<Article>> getArticle() async {
